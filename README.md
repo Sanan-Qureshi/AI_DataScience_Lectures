@@ -1,0 +1,1 @@
+In this folder, I will be uploading my lectures related to AI and Data Science. It will contain my Presentation Slides, with Google Collab files. In order to master this skill, it is a request to first go through the presentation slides and then move towards code file. Make sure to practise daily. Happy Learning! 
