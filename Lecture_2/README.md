@@ -1,1 +1,1 @@
-
+Welcome to Lecture 2 of the AI and Data Science course. In this lesson, we will learn about normalisation, encoding (with its types), and segmentation in detail. You are requested to go through the lecture slides (Lecture 2.ppt) and the Google Colab file (L2_AI&DS) in parallel. Afterwards, open another Colab file (L2_AI&DS_WS) to practise more and to understand encoding and segmentation.
