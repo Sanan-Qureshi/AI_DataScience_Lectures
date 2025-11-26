@@ -1,1 +1,1 @@
-
+In this lecture, students will study some main concepts of Statistics. The major aim is to familiarise students with Mean, Median, Mode, Range, and Probability concepts. You'll find a detailed slides in this folder. Please make sure to then teach students with the help of a example by coding the concepts. 
